@@ -4,7 +4,8 @@ This is a "Hello world" program. It is written in Python as a Jupyter Lab Notebo
 
 To run this program, follow these steps:
 
-1. Install Jupyter Lab or other Program that can open .ipynb files
+0. Requirements: a Computer or a phone that can execute Python code / .ipynb files
+1. Install Jupyter Lab or other Program that can open .ipynb files (for example Google colab)
 2. Execute the code in said Program
 3. Your result should be the words "Hello World" printed into the console
 
